@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeSl
-- 👀 пора на хх
+- 👀 Работа, ты где?
 
 <!---
 BeSl/BeSl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
